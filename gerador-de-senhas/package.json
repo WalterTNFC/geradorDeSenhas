@@ -1,0 +1,22 @@
+{
+  "name": "gerador-de-senhas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "lint": "eslint ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboard-copy": "^4.0.1",
+    "nanoid": "^4.0.2",
+    "vite": "^4.2.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
